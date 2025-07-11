@@ -1,2 +1,2 @@
 # namakusurya-quickstart-app-example
-this is just example
+this is just example update
